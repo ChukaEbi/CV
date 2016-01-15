@@ -1,5 +1,6 @@
 Chuka Ebi
 ================
+An electrifying individual( whether this is due to my many incidents in the Electrical Engineering lab, I don't know) who has discovered his passion for all things software. How it works, How it is made, and most importantly, how to make it. I have come to possess a keen affinity for design on all levels: from a beautiful UI/UX to well written design pattern. Actively seeking a developer role.
 
 Code Examples
 -------------
@@ -12,7 +13,7 @@ Code Examples
 
 Technical Skills and Technologies
 ---------------------------------
-| |Strong|Know|Touched on|
+| |Most Comfortable|Comfortable|Touched on|
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|Java, C, CSS3, HTML5, jQuery|C++, Coffeescript, Python, Objective-C|
 |Databases/ORMS|PostGresQL, DataMapper, Firebase|ActiveRecord, MongoDB|  Parse               |
@@ -24,10 +25,10 @@ Education
 ---------
 #### Makers Academy, London (October 2015 - January 2016)
 Highly selective 12 week intensive coding bootcamp.
-- Focussed on pair programming, test driven development, agile practices
+- Focused on pair programming, test driven development, agile practices
 - Object oriented programming, software design
 - Full stack web development
-- Final project: GymBuddy - a mobile app gym goers to better connect with each other..
+- Final project: GymBuddy - a mobile app for gym goers to better connect with each other.
 
 #### Worcester Polytechnic Institute, Worcester, MA, USA (August 2011 - May 2015)
 BSc in Electrical and Computer Engineering, GPA: 3.7/4.0 <br />
@@ -40,17 +41,9 @@ Worked closely with the client (Nigerian National Petroleum Company). Built Serv
 
 **Consultant Intern**, Inflakes Technologies: July 2014 - August 2014
 
-RMaintenance of the integrated systems of land and rail clients. Organized Workshop and Conference. iOS Mobile Application development and identified solutions for the clients.
+Maintenance of the integrated systems of land and rail clients. Organized Workshop and Conference. iOS Mobile Application development and identified solutions for the clients.
 
 
 Interests
 ---------
-I love Table-Tennis(I have a vicious smash), yoga, basketball and books of a fantastical nature.
-
-More about me
--------------
-- Email: [chuka.ebi@outlook.com](chuka.ebi@outlook.com)
-- Phone: 07958247294
-- Github: [@ChukaEbi](https://github.com/ChukaEbi)
-- Twitter: [@rossxebi](https://twitter.com/rossxebi)
-- LinkedIn: https://www.linkedin.com/in/chuka-ebi-43675995
+I love Table-Tennis(I have a vicious smash), yoga, basketball and books of a fantastical nature. Video games may be my second love.
